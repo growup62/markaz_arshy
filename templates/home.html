@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Otomatiskan Trading Forex Anda | Markaz Arshy</title>
+  <link rel="icon" href="{{ url_for('static', filename='logo.png') }}" />
+  <!-- Tailwind CSS (CDN) -->
+  <script>
+    window.tailwind = window.tailwind || {};
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'ui-sans-serif', 'system-ui', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial']
+          }
+        }
+      }
+    }
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkfAm8YG2GZ0PniCjS6G1J9MuGxZ1+X1Jq6Y0eG1Qf1Z4Z2Yx4N3QmYxw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <!-- Optional: Inter font -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="min-h-screen flex flex-col bg-gradient-to-tr from-blue-50 via-white to-blue-100 text-slate-800">
+  <!-- ======= Navbar ======= -->
+  <nav class="sticky top-0 z-50 bg-white/80 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-blue-100/60">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="h-16 flex items-center justify-between gap-3 min-w-0">
+        <!-- Brand -->
+        <a href="{{ url_for('home_page') if url_for else '#' }}" class="flex items-center gap-3 group shrink-0">
+          <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo Markaz Arshy" class="w-9 h-9 rounded-xl shadow ring-1 ring-blue-200"/>
+          <span class="font-bold text-lg sm:text-xl tracking-tight text-blue-700 group-hover:text-blue-800 transition">Markaz Arshy</span>
+        </a>
+        
+        <!-- Center nav (desktop) -->
+        <div class="hidden lg:flex flex-1 items-center justify-center gap-6 text-sm min-w-0 whitespace-nowrap">
+          <a href="#features" class="text-slate-600 hover:text-blue-700 transition">Fitur</a>
+          <a href="#how" class="text-slate-600 hover:text-blue-700 transition">Cara Kerja</a>
+          <a href="#testi" class="text-slate-600 hover:text-blue-700 transition">Testimoni</a>
+          <a href="#faq" class="text-slate-600 hover:text-blue-700 transition">FAQ</a>
+          <a href="#pricing" class="text-slate-600 hover:text-blue-700 transition">Harga</a>
+          <a href="#contact" class="text-slate-600 hover:text-blue-700 transition">Kontak</a>
+        </div>
+
+        <!-- Actions (desktop) -->
+        <div class="hidden sm:flex items-center gap-3 shrink-0">
+          <a href="{{ url_for('login_page') }}" class="px-4 py-2 rounded-xl font-semibold text-blue-700 hover:bg-blue-50 transition">Login</a>
+          <a href="{{ url_for('register_page') }}" class="px-4 py-2 bg-blue-700 text-white rounded-xl font-semibold shadow hover:bg-blue-800 transition">Daftar</a>
+        </div>
+
+        <!-- Burger (mobile / tablet) -->
+        <button id="nav-burger" class="inline-flex lg:hidden items-center justify-center w-10 h-10 rounded-xl ring-1 ring-slate-200 hover:bg-slate-50 shrink-0" aria-label="Toggle menu" aria-expanded="false">
+          <i class="fa-solid fa-bars text-slate-700"></i>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile menu panel -->
+    <div id="mobile-menu" class="lg:hidden hidden border-t border-blue-100/60 bg-white/90 backdrop-blur">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-3 grid gap-3">
+        <div class="flex flex-wrap gap-4 text-sm">
+          <a href="#features" class="px-3 py-2 rounded-xl hover:bg-blue-50">Fitur</a>
+          <a href="#how" class="px-3 py-2 rounded-xl hover:bg-blue-50">Cara Kerja</a>
+          <a href="#testi" class="px-3 py-2 rounded-xl hover:bg-blue-50">Testimoni</a>
+          <a href="#faq" class="px-3 py-2 rounded-xl hover:bg-blue-50">FAQ</a>
+          <a href="#pricing" class="px-3 py-2 rounded-xl hover:bg-blue-50">Harga</a>
+          <a href="#contact" class="px-3 py-2 rounded-xl hover:bg-blue-50">Kontak</a>
+        </div>
+        <div class="flex items-center gap-3">
+          <a href="{{ url_for('login_page') }}" class="flex-1 text-center px-4 py-2 rounded-xl font-semibold text-blue-700 ring-1 ring-blue-200 hover:bg-blue-50 transition">Login</a>
+          <a href="{{ url_for('register_page') }}" class="flex-1 text-center px-4 py-2 bg-blue-700 text-white rounded-xl font-semibold shadow hover:bg-blue-800 transition">Daftar</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ======= Hero ======= -->
+  <header class="relative overflow-hidden">
+    <div class="absolute inset-0 pointer-events-none">
+      <div class="absolute -top-24 -right-24 w-96 h-96 bg-blue-200/50 rounded-full blur-3xl"></div>
+      <div class="absolute -bottom-16 -left-16 w-[28rem] h-[28rem] bg-blue-300/40 rounded-full blur-3xl"></div>
+    </div>
+
+    <section class="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 sm:py-20 grid md:grid-cols-2 gap-10 items-center">
+      <div class="space-y-6">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-50 ring-1 ring-blue-200 text-xs font-medium text-blue-700">
+          <i class="fa-solid fa-shield-halved"></i>
+          <span>• FREE EA (robot trading) • MT5 Compatible • Tanpa IB</span>
+        </div>
+        <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight text-slate-900">
+          Otomatiskan Strategi <span class="text-blue-700">Trading Forex</span> Anda
+        </h1>
+        <p class="text-lg sm:text-xl text-slate-600">
+          Jalankan rencana trading dengan konsisten menggunakan <span class="font-semibold text-blue-700">AI‑Powered Expert Advisor</span> dari Markaz Arshy. Fokus pada target jangka panjang/pendek—biarkan AI kami menangani entry, exit, dan pengelolaan risiko.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4">
+          <a href="{{ url_for('register_page') }}" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-blue-700 text-white font-semibold shadow-lg hover:shadow-xl hover:bg-blue-800 transition text-base">
+            <i class="fa-solid fa-rocket"></i>
+            Mulai Gratis
+          </a>
+          <a href="#features" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl font-semibold ring-1 ring-blue-200 text-blue-700 hover:bg-blue-50 transition text-base">
+            <i class="fa-solid fa-circle-play"></i>
+            Lihat Fitur
+          </a>
+        </div>
+        <div class="flex flex-wrap items-center gap-3 text-sm">
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white shadow-sm ring-1 ring-slate-200">
+            <i class="fa-solid fa-lock text-blue-600"></i>
+            <span>API Key aman di sisi Anda</span>
+          </div>
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white shadow-sm ring-1 ring-slate-200">
+            <i class="fa-solid fa-bolt text-blue-600"></i>
+            <span>Realtime signal processing</span>
+          </div>
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white shadow-sm ring-1 ring-slate-200">
+            <i class="fa-solid fa-headset text-blue-600"></i>
+            <span>Dukungan WhatsApp & Telegram</span>
+          </div>
+        </div>
+        <p class="text-xs text-slate-500">Disclaimer: Perdagangan valas berisiko tinggi. Hasil masa lalu tidak menjamin kinerja di masa depan. Selalu pahami risiko sebelum menggunakan EA.</p>
+      </div>
+
+      <div class="relative">
+        <!-- Inline SVG Illustration -->
+        <svg viewBox="0 0 560 360" role="img" aria-label="Ilustrasi EA Trading" class="w-full max-w-xl mx-auto rounded-3xl shadow-2xl ring-1 ring-slate-200" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#dbeafe"/>
+              <stop offset="100%" stop-color="#bfdbfe"/>
+            </linearGradient>
+            <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#1d4ed8"/>
+              <stop offset="100%" stop-color="#3b82f6"/>
+            </linearGradient>
+          </defs>
+          <rect x="0" y="0" width="560" height="360" rx="24" fill="url(#bg)"/>
+          <rect x="40" y="40" width="480" height="240" rx="16" fill="#ffffff" stroke="#cbd5e1"/>
+          <rect x="55" y="60" width="450" height="200" rx="10" fill="#f8fafc"/>
+          <g transform="translate(70,70)">
+            <g stroke="#e5e7eb" stroke-width="1">
+              <line x1="0" y1="0" x2="420" y2="0"/>
+              <line x1="0" y1="50" x2="420" y2="50"/>
+              <line x1="0" y1="100" x2="420" y2="100"/>
+              <line x1="0" y1="150" x2="420" y2="150"/>
+              <line x1="0" y1="0" x2="0" y2="160"/>
+              <line x1="140" y1="0" x2="140" y2="160"/>
+              <line x1="280" y1="0" x2="280" y2="160"/>
+              <line x1="420" y1="0" x2="420" y2="160"/>
+            </g>
+            <g>
+              <g><line x1="20" x2="20" y1="30" y2="130" stroke="#94a3b8"/><rect x="10" y="60" width="20" height="40" rx="3" fill="#10b981"/></g>
+              <g><line x1="70" x2="70" y1="20" y2="120" stroke="#94a3b8"/><rect x="60" y="40" width="20" height="60" rx="3" fill="#ef4444"/></g>
+              <g><line x1="120" x2="120" y1="40" y2="140" stroke="#94a3b8"/><rect x="110" y="70" width="20" height="35" rx="3" fill="#10b981"/></g>
+              <g><line x1="170" x2="170" y1="35" y2="125" stroke="#94a3b8"/><rect x="160" y="55" width="20" height="50" rx="3" fill="#10b981"/></g>
+              <g><line x1="220" x2="220" y1="25" y2="140" stroke="#94a3b8"/><rect x="210" y="45" width="20" height="65" rx="3" fill="#ef4444"/></g>
+              <g><line x1="270" x2="270" y1="30" y2="135" stroke="#94a3b8"/><rect x="260" y="60" width="20" height="40" rx="3" fill="#10b981"/></g>
+              <g><line x1="320" x2="320" y1="15" y2="120" stroke="#94a3b8"/><rect x="310" y="35" width="20" height="55" rx="3" fill="#10b981"/></g>
+              <g><line x1="370" x2="370" y1="35" y2="130" stroke="#94a3b8"/><rect x="360" y="65" width="20" height="35" rx="3" fill="#ef4444"/></g>
+            </g>
+            <path d="M0,160 C80,120 160,120 240,140 S360,150 420,120" fill="none" stroke="url(#accent)" stroke-width="3"/>
+          </g>
+          <g transform="translate(400,220)">
+            <circle cx="0" cy="0" r="34" fill="url(#accent)" opacity="0.12"/>
+            <circle cx="0" cy="0" r="26" fill="#1d4ed8"/>
+            <rect x="-18" y="-10" width="36" height="22" rx="6" fill="#ffffff"/>
+            <circle cx="-8" cy="0" r="5" fill="#1d4ed8"/>
+            <circle cx="8" cy="0" r="5" fill="#1d4ed8"/>
+            <rect x="-6" y="10" width="12" height="3" rx="1.5" fill="#1d4ed8"/>
+            <line x1="0" y1="-26" x2="0" y2="-36" stroke="#1d4ed8" stroke-width="3"/>
+            <circle cx="0" cy="-40" r="4" fill="#3b82f6"/>
+          </g>
+          <rect x="240" y="290" width="80" height="10" rx="4" fill="#94a3b8"/>
+          <rect x="210" y="300" width="140" height="14" rx="7" fill="#cbd5e1"/>
+        </svg>
+        <div class="absolute -bottom-5 left-1/2 -translate-x-1/2 md:left-auto md:right-6 md:translate-x-0">
+          <div class="rounded-2xl bg-white/90 backdrop-blur p-4 shadow-lg ring-1 ring-slate-200">
+            <div class="flex items-center gap-3">
+              <div class="w-10 h-10 rounded-xl bg-blue-600/10 flex items-center justify-center">
+                <i class="fa-solid fa-robot text-blue-700"></i>
+              </div>
+              <div class="text-sm">
+                <p class="font-semibold text-slate-800">AI aktif</p>
+                <p class="text-slate-500">Menganalisis 24/5 sesuai sesi market</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Trust bar -->
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-8">
+      <div class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 gap-4 items-center opacity-90">
+        <div class="flex items-center justify-center gap-2">
+          <span class="inline-flex w-8 h-8 items-center justify-center rounded-full bg-white shadow ring-1 ring-slate-200"><i class="fa-solid fa-desktop text-blue-600 text-sm"></i></span>
+          <span class="text-xs font-medium text-slate-700">MT5</span>
+        </div>
+        <div class="flex items-center justify-center gap-2">
+          <span class="inline-flex w-8 h-8 items-center justify-center rounded-full bg-white shadow ring-1 ring-slate-200"><i class="fa-solid fa-server text-blue-600 text-sm"></i></span>
+          <span class="text-xs font-medium text-slate-700">VPS Ready</span>
+        </div>
+        <div class="flex items-center justify-center gap-2">
+          <span class="inline-flex w-8 h-8 items-center justify-center rounded-full bg-white shadow ring-1 ring-slate-200"><i class="fa-brands fa-telegram text-blue-600 text-sm"></i></span>
+          <span class="text-xs font-medium text-slate-700">Telegram Signal</span>
+        </div>
+        <div class="flex items-center justify-center gap-2">
+          <span class="inline-flex w-8 h-8 items-center justify-center rounded-full bg-white shadow ring-1 ring-slate-200"><i class="fa-solid fa-shield-halved text-blue-600 text-sm"></i></span>
+          <span class="text-xs font-medium text-slate-700">Risk Controls</span>
+        </div>
+        <div class="flex items-center justify-center gap-2">
+          <span class="inline-flex w-8 h-8 items-center justify-center rounded-full bg-white shadow ring-1 ring-slate-200"><i class="fa-solid fa-clock-rotate-left text-blue-600 text-sm"></i></span>
+          <span class="text-xs font-medium text-slate-700">Backtest Support</span>
+        </div>
+        <div class="flex items-center justify-center gap-2">
+          <span class="inline-flex w-8 h-8 items-center justify-center rounded-full bg-white shadow ring-1 ring-slate-200"><i class="fa-solid fa-plug text-blue-600 text-sm"></i></span>
+          <span class="text-xs font-medium text-slate-700">Broker‑agnostic*</span>
+        </div>
+      </div>
+      <p class="text-[11px] text-slate-400 mt-2">*Selama broker mendukung MT5 & koneksi standar.</p>
+    </div>
+  </header>
+
+  <!-- ======= Why Us / Features ======= -->
+  <section id="features" class="scroll-mt-24 mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-14">
+    <h2 class="text-3xl font-bold text-center text-slate-900">Mengapa Memilih Markaz Arshy?</h2>
+    <p class="mt-3 text-center text-slate-600">Kombinasi analisis AI, eksekusi yang disiplin, dan kontrol risiko yang jelas.</p>
+
+    <div class="mt-10 grid md:grid-cols-3 gap-6">
+      <div class="group p-6 rounded-3xl bg-white shadow-md ring-1 ring-slate-200 hover:shadow-xl hover:-translate-y-0.5 transition">
+        <div class="w-14 h-14 mx-auto mb-4 rounded-2xl bg-blue-50 text-blue-700 flex items-center justify-center text-2xl shadow-inner">
+          <i class="fa-solid fa-chart-line"></i>
+        </div>
+        <h3 class="text-lg font-semibold text-blue-700 text-center">Analisis Teknikal</h3>
+        <p class="mt-2 text-sm text-slate-600 text-center">Mendeteksi tren & pola probabilistik untuk menghasilkan sinyal entry/exit dengan parameter yang dapat Anda atur.</p>
+      </div>
+
+      <div class="group p-6 rounded-3xl bg-white shadow-md ring-1 ring-slate-200 hover:shadow-xl hover:-translate-y-0.5 transition">
+        <div class="w-14 h-14 mx-auto mb-4 rounded-2xl bg-blue-50 text-blue-700 flex items-center justify-center text-2xl shadow-inner">
+          <i class="fa-solid fa-newspaper"></i>
+        </div>
+        <h3 class="text-lg font-semibold text-blue-700 text-center">Analisis Fundamental</h3>
+        <p class="mt-2 text-sm text-slate-600 text-center">Memantau rilis data ekonomi & sentimen berita untuk menyesuaikan agresivitas strategi secara realtime.</p>
+      </div>
+
+      <div class="group p-6 rounded-3xl bg-white shadow-md ring-1 ring-slate-200 hover:shadow-xl hover:-translate-y-0.5 transition">
+        <div class="w-14 h-14 mx-auto mb-4 rounded-2xl bg-blue-50 text-blue-700 flex items-center justify-center text-2xl shadow-inner">
+          <i class="fa-solid fa-wallet"></i>
+        </div>
+        <h3 class="text-lg font-semibold text-blue-700 text-center">Manajemen Risiko</h3>
+        <p class="mt-2 text-sm text-slate-600 text-center">TP/SL, trailing stop, partial close, auto lot sizing, dan proteksi volatilitas tinggi.</p>
+      </div>
+
+      <div class="group p-6 rounded-3xl bg-white shadow-md ring-1 ring-slate-200 hover:shadow-xl hover:-translate-y-0.5 transition md:col-span-2">
+        <div class="w-14 h-14 mx-auto mb-4 rounded-2xl bg-blue-50 text-blue-700 flex items-center justify-center text-2xl shadow-inner">
+          <i class="fa-brands fa-telegram"></i>
+        </div>
+        <h3 class="text-lg font-semibold text-blue-700 text-center">Analisis AI + Notifikasi</h3>
+        <p class="mt-2 text-sm text-slate-600 text-center">Pasang EA di MT5 dan terima ringkasan keputusan AI via Telegram/WhatsApp. Anda tetap memegang kendali penuh.</p>
+      </div>
+
+      <div class="group p-6 rounded-3xl bg-white shadow-md ring-1 ring-slate-200 hover:shadow-xl hover:-translate-y-0.5 transition">
+        <div class="w-14 h-14 mx-auto mb-4 rounded-2xl bg-blue-50 text-blue-700 flex items-center justify-center text-2xl shadow-inner">
+          <i class="fa-solid fa-robot"></i>
+        </div>
+        <h3 class="text-lg font-semibold text-blue-700 text-center">Automasi Penuh</h3>
+        <p class="mt-2 text-sm text-slate-600 text-center">Eksekusi trade otomatis sesuai rule; Anda dapat mengaktifkan mode semi‑otomatis untuk konfirmasi manual.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= How it Works ======= -->
+  <section id="how" class="scroll-mt-24 mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="rounded-3xl bg-blue-50/70 ring-1 ring-blue-200 shadow-lg p-8">
+      <h2 class="text-3xl font-bold text-center text-slate-900">Mulai dalam 3 Langkah</h2>
+      <div class="mt-8 grid md:grid-cols-3 gap-8">
+        <div class="text-center">
+          <div class="mx-auto w-14 h-14 flex items-center justify-center rounded-full bg-blue-200 text-blue-700 text-2xl">1</div>
+          <h3 class="mt-3 font-semibold text-blue-700">Pilih Paket</h3>
+          <p class="mt-1 text-sm text-slate-600">Sesuaikan dengan gaya & toleransi risiko Anda. Tersedia mode demo.</p>
+        </div>
+        <div class="text-center">
+          <div class="mx-auto w-14 h-14 flex items-center justify-center rounded-full bg-blue-200 text-blue-700 text-2xl">2</div>
+          <h3 class="mt-3 font-semibold text-blue-700">Hubungkan Akun</h3>
+          <p class="mt-1 text-sm text-slate-600">Ikuti panduan instalasi EA di MT5. Dukungan VPS & remote setup.</p>
+        </div>
+        <div class="text-center">
+          <div class="mx-auto w-14 h-14 flex items-center justify-center rounded-full bg-blue-200 text-blue-700 text-2xl">3</div>
+          <h3 class="mt-3 font-semibold text-blue-700">Mulai Trading</h3>
+          <p class="mt-1 text-sm text-slate-600">Pantau kinerja di dashboard & dapatkan notifikasi keputusan AI.</p>
+        </div>
+      </div>
+      <div class="flex justify-center mt-8">
+        <a href="{{ url_for('register_page') }}" class="px-7 py-3 bg-blue-700 text-white rounded-2xl font-semibold shadow-lg hover:bg-blue-800 transition text-lg">Gabung Sekarang</a>
+      </div>
+      <p class="text-center text-sm text-slate-500 mt-2">Butuh bantuan? <a href="{{ url_for('panduan_page') }}" class="text-blue-700 hover:underline">Pusat Bantuan</a></p>
+    </div>
+  </section>
+
+  <!-- ======= Testimonials ======= -->
+  <section id="testi" class="scroll-mt-24 mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-14">
+    <h2 class="text-3xl font-bold text-center text-slate-900">Apa Kata Pengguna</h2>
+    <p class="mt-3 text-center text-slate-600">Umpan balik nyata dari trader yang menggunakan EA kami.</p>
+    <div class="mt-8 grid sm:grid-cols-2 md:grid-cols-3 gap-6">
+      {% set testi = [
+        {'in':'A','name':'Andi','text':'Sudah mencoba banyak EA, tapi Markaz Arshy paling konsisten dengan kontrol risiko yang jelas. Support cepat.'},
+        {'in':'B','name':'Budi','text':'AI‑nya konservatif dan transparan. Nyaman digunakan tanpa harus memantau terus.'},
+        {'in':'C','name':'Citra','text':'Setup mudah. Sinyal AI langsung tereksekusi rapi di akun saya.'}
+      ] %}
+      {% for t in testi %}
+      <div class="bg-white rounded-2xl p-6 shadow-md ring-1 ring-slate-200 hover:shadow-lg transition">
+        <div class="flex items-center mb-3">
+          <div class="w-10 h-10 bg-blue-200 text-blue-700 rounded-full flex items-center justify-center font-bold">{{ t.in }}</div>
+          <div class="ml-3">
+            <p class="font-semibold text-blue-700">{{ t.name }}</p>
+            <div class="flex items-center gap-1 text-amber-400 text-sm" aria-label="Rating 4.8/5">
+              <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star-half-stroke"></i>
+            </div>
+          </div>
+        </div>
+        <p class="text-slate-600 text-sm italic">“{{ t.text }}”</p>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- ======= FAQ ======= -->
+  <section id="faq" class="scroll-mt-24 mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-14">
+    <h2 class="text-3xl font-bold text-center text-slate-900">Pertanyaan yang Sering Diajukan</h2>
+    <div class="mt-8 grid md:grid-cols-2 gap-4">
+      <details class="group bg-white rounded-2xl p-5 shadow-sm ring-1 ring-slate-200 open:shadow-md transition">
+        <summary class="flex items-center justify-between cursor-pointer font-semibold text-slate-800">Apakah EA dijamin profit?
+          <i class="fa-solid fa-chevron-down text-slate-400 group-open:rotate-180 transition"></i>
+        </summary>
+        <p class="mt-3 text-sm text-slate-600">Tidak ada jaminan profit di pasar keuangan. EA membantu eksekusi yang disiplin sesuai strategi & manajemen risiko yang Anda tetapkan.</p>
+      </details>
+      <details class="group bg-white rounded-2xl p-5 shadow-sm ring-1 ring-slate-200 open:shadow-md transition">
+        <summary class="flex items-center justify-between cursor-pointer font-semibold text-slate-800">Apakah kompatibel dengan semua broker MT5?
+          <i class="fa-solid fa-chevron-down text-slate-400 group-open:rotate-180 transition"></i>
+        </summary>
+        <p class="mt-3 text-sm text-slate-600">Selama broker mendukung MT5 standar dan tidak membatasi EA, sistem dapat berjalan normal. Kondisi eksekusi dapat berbeda tiap broker.</p>
+      </details>
+      <details class="group bg-white rounded-2xl p-5 shadow-sm ring-1 ring-slate-200 open:shadow-md transition">
+        <summary class="flex items-center justify-between cursor-pointer font-semibold text-slate-800">Apakah perlu VPS?
+          <i class="fa-solid fa-chevron-down text-slate-400 group-open:rotate-180 transition"></i>
+        </summary>
+        <p class="mt-3 text-sm text-slate-600">Disarankan menggunakan VPS agar MT5 & EA berjalan 24/5 tanpa gangguan. Kami menyediakan panduan rekomendasi VPS.</p>
+      </details>
+      <details class="group bg-white rounded-2xl p-5 shadow-sm ring-1 ring-slate-200 open:shadow-md transition">
+        <summary class="flex items-center justify-between cursor-pointer font-semibold text-slate-800">Bagaimana support & onboarding?
+          <i class="fa-solid fa-chevron-down text-slate-400 group-open:rotate-180 transition"></i>
+        </summary>
+        <p class="mt-3 text-sm text-slate-600">Tim kami membantu instalasi awal, pengaturan parameter, dan troubleshooting melalui WhatsApp/Telegram & pusat bantuan.</p>
+      </details>
+    </div>
+  </section>
+
+  <!-- ======= Pricing / Paket Harga ======= -->
+  <section id="pricing" class="scroll-mt-24 mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-14">
+    <h2 class="text-3xl font-bold text-center text-slate-900">Paket Harga</h2>
+    <p class="mt-2 text-center text-slate-600">Mulai gratis. Upgrade kapan saja sesuai kebutuhan Anda.</p>
+
+    <div class="mt-8 grid md:grid-cols-3 gap-6">
+      <div class="relative group p-6 rounded-3xl bg-white shadow-md ring-1 ring-slate-200 hover:shadow-xl transition">
+        <h3 class="text-lg font-semibold text-slate-800">Starter</h3>
+        <div class="mt-3 text-3xl font-extrabold">Rp0<span class="text-base font-semibold text-slate-500">/7 hari</span></div>
+        <p class="mt-1 text-sm text-slate-500">Coba semua fitur inti dengan akun demo/real lot kecil.</p>
+        <ul class="mt-4 space-y-2 text-sm text-slate-600">
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> 1 pasang mata uang</li>
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> TP/SL & trailing stop</li>
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Template backtest</li>
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Alert Telegram</li>
+        </ul>
+        <a href="{{ url_for('register_page') }}?plan=starter" class="mt-6 inline-flex justify-center w-full px-4 py-2.5 rounded-xl bg-blue-700 text-white font-semibold hover:bg-blue-800 transition">Mulai Gratis</a>
+      </div>
+
+      <div class="relative group p-6 rounded-3xl bg-white shadow-lg ring-2 ring-blue-200 hover:shadow-2xl transition">
+        <span class="absolute -top-3 left-1/2 -translate-x-1/2 px-3 py-1 text-xs font-semibold rounded-full bg-gradient-to-r from-blue-600 to-blue-500 text-white shadow">Paling Populer</span>
+        <h3 class="mt-1 text-lg font-semibold text-slate-800">Pro</h3>
+        <div class="mt-3 text-3xl font-extrabold">Rp149K<span class="text-base font-semibold text-slate-500">/bulan</span></div>
+        <p class="mt-1 text-sm text-slate-500">Untuk trader aktif yang butuh fleksibilitas & kontrol risiko lebih.</p>
+        <ul class="mt-4 space-y-2 text-sm text-slate-600">
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Hingga 5 pasangan mata uang</li>
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Auto lot sizing & partial close</li>
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Filter berita & sesi market</li>
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Preset strategi siap pakai</li>
+        </ul>
+        <a href="{{ url_for('register_page') }}?plan=pro" class="mt-6 inline-flex justify-center w-full px-4 py-2.5 rounded-xl bg-blue-700 text-white font-semibold hover:bg-blue-800 transition">Pilih Pro</a>
+      </div>
+
+      <div class="relative group p-6 rounded-3xl bg-white shadow-md ring-1 ring-slate-200 hover:shadow-xl transition">
+        <h3 class="text-lg font-semibold text-slate-800">Ultimate</h3>
+        <div class="mt-3 text-3xl font-extrabold">Rp299K<span class="text-base font-semibold text-slate-500">/bulan</span></div>
+        <p class="mt-1 text-sm text-slate-500">Skalakan portofolio dengan dukungan prioritas dan analitik lanjutan.</p>
+        <ul class="mt-4 space-y-2 text-sm text-slate-600">
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Pair tak terbatas</li>
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Portfolio risk cap</li>
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Onboarding VPS & support prioritas</li>
+          <li class="flex gap-2"><i class="fa-solid fa-circle-check text-blue-600 mt-0.5"></i> Analitik & integrasi API</li>
+        </ul>
+        <a href="{{ url_for('register_page') }}?plan=ultimate" class="mt-6 inline-flex justify-center w-full px-4 py-2.5 rounded-xl bg-blue-700 text-white font-semibold hover:bg-blue-800 transition">Ambil Ultimate</a>
+      </div>
+    </div>
+    <p class="mt-3 text-center text-[13px] text-slate-500">*Harga dapat berubah. Berlaku promo early‑access. Anda bisa berhenti kapan saja.</p>
+  </section>
+
+  <!-- ======= Contact / WhatsApp Form ======= -->
+  <section id="contact" class="scroll-mt-24 mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="rounded-3xl bg-white/90 backdrop-blur ring-1 ring-slate-200 shadow-lg p-8">
+      <h2 class="text-3xl font-bold text-center text-slate-900">Hubungi Kami via WhatsApp</h2>
+      <p class="mt-2 text-center text-slate-600">Ada pertanyaan atau butuh demo? Kirim pesan—kami akan balas secepatnya.</p>
+      <form id="wa-form" class="mt-8 grid md:grid-cols-2 gap-6">
+        <div>
+          <label class="block text-sm font-medium text-slate-700">Nama</label>
+          <input type="text" id="wa-name" class="mt-1 w-full rounded-xl border-slate-300 focus:ring-blue-500 focus:border-blue-500" placeholder="Nama lengkap" required>
+        </div>
+        <div>
+          <label class="block text-sm font-medium text-slate-700">Email / Telegram</label>
+          <input type="text" id="wa-contact" class="mt-1 w-full rounded-xl border-slate-300 focus:ring-blue-500 focus:border-blue-500" placeholder="nama@email.com / @username" required>
+        </div>
+        <div>
+          <label class="block text-sm font-medium text-slate-700">Nomor WhatsApp</label>
+          <input type="tel" id="wa-number" class="mt-1 w-full rounded-xl border-slate-300 focus:ring-blue-500 focus:border-blue-500" placeholder="62xxxxxxxxxx" required>
+        </div>
+        <div class="md:col-span-2">
+          <label class="block text-sm font-medium text-slate-700">Pesan</label>
+          <textarea id="wa-message" rows="4" class="mt-1 w-full rounded-xl border-slate-300 focus:ring-blue-500 focus:border-blue-500" placeholder="Ceritakan kebutuhan Anda (broker, gaya trading, dsb.)" required></textarea>
+        </div>
+        <div class="md:col-span-2 flex items-center justify-between">
+          <p class="text-[13px] text-slate-500">Dengan mengirim pesan, Anda setuju untuk dihubungi terkait produk & layanan Markaz Arshy.</p>
+          <button type="submit" class="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-green-600 text-white font-semibold shadow hover:bg-green-700 transition">
+            <i class="fa-brands fa-whatsapp"></i> Kirim via WhatsApp
+          </button>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <!-- ======= CTA ======= -->
+  <section class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 pb-16">
+    <div class="relative overflow-hidden rounded-3xl bg-gradient-to-r from-blue-700 to-blue-600 text-white p-8 sm:p-12 shadow-xl">
+      <div class="max-w-2xl space-y-3">
+        <h3 class="text-2xl sm:text-3xl font-extrabold">Siap Trading Lebih Disiplin dengan AI?</h3>
+        <p class="text-white/90">Coba gratis. Tidak perlu IB. Anda dapat berhenti kapan saja.</p>
+        <div class="flex flex-wrap gap-3">
+          <a href="{{ url_for('register_page') }}" class="inline-flex items-center gap-2 px-6 py-3 bg-white text-blue-700 rounded-2xl font-semibold shadow hover:shadow-lg hover:bg-slate-50 transition">
+            <i class="fa-solid fa-user-plus"></i> Daftar Sekarang
+          </a>
+          <a href="{{ url_for('panduan_page') }}" class="inline-flex items-center gap-2 px-6 py-3 ring-1 ring-white/60 rounded-2xl font-semibold hover:bg-white/10 transition">
+            <i class="fa-solid fa-book"></i> Lihat Panduan
+          </a>
+        </div>
+      </div>
+      <div class="absolute -right-24 -bottom-24 w-80 h-80 bg-white/20 rounded-full blur-3xl"></div>
+    </div>
+  </section>
+
+  <!-- ======= Footer ======= -->
+  <footer class="mt-auto border-t border-slate-200/60 bg-white/70 backdrop-blur">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 grid md:grid-cols-2 gap-6">
+      <div>
+        <div class="flex items-center gap-2">
+          <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" class="w-8 h-8 rounded-lg ring-1 ring-slate-200"/>
+          <span class="font-semibold text-slate-800">Markaz Arshy</span>
+        </div>
+        <p class="mt-3 text-sm text-slate-600 max-w-md">Platform Expert Advisor berbasis AI untuk membantu eksekusi trading yang konsisten dan terukur. Gunakan dengan bijak sesuai profil risiko Anda.</p>
+      </div>
+      <div class="grid grid-cols-2 gap-6 text-sm">
+        <div>
+          <h4 class="font-semibold text-slate-800">Produk</h4>
+          <ul class="mt-2 space-y-1">
+            <li><a href="#features" class="text-slate-600 hover:text-blue-700">Fitur</a></li>
+            <li><a href="#how" class="text-slate-600 hover:text-blue-700">Cara Kerja</a></li>
+            <li><a href="#faq" class="text-slate-600 hover:text-blue-700">FAQ</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-semibold text-slate-800">Bantuan</h4>
+          <ul class="mt-2 space-y-1">
+            <li><a href="{{ url_for('panduan_page') }}" class="text-slate-600 hover:text-blue-700">Pusat Bantuan</a></li>
+            <li><a href="{{ url_for('login_page') }}" class="text-slate-600 hover:text-blue-700">Login</a></li>
+            <li><a href="{{ url_for('register_page') }}" class="text-slate-600 hover:text-blue-700">Daftar</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="text-center text-slate-500 text-sm py-4 border-t border-slate-200">&copy; {{ current_year }} Markaz Arshy. Semua hak dilindungi.</div>
+  </footer>
+
+  <!-- Scripts -->
+  <script>
+    (function(){
+      const btn = document.getElementById('nav-burger');
+      const panel = document.getElementById('mobile-menu');
+      if(!btn || !panel) return;
+      btn.addEventListener('click', () => {
+        const open = panel.classList.toggle('hidden') === false;
+        btn.setAttribute('aria-expanded', String(open));
+        btn.innerHTML = open ? '<i class="fa-solid fa-xmark text-slate-700"></i>' : '<i class="fa-solid fa-bars text-slate-700"></i>';
+      });
+    })();
+  </script>
+  <script>
+    (function(){
+      const form = document.getElementById('wa-form');
+      if (!form) return;
+      const SUPPORT_WA = "{{ support_wa|default('6285157110863') }}";
+      form.addEventListener('submit', function(e){
+        e.preventDefault();
+        const name = document.getElementById('wa-name').value.trim();
+        const contact = document.getElementById('wa-contact').value.trim();
+        const number = document.getElementById('wa-number').value.trim();
+        const message = document.getElementById('wa-message').value.trim();
+        const text = `Halo Markaz Arshy, saya ${name}.\nKontak: ${contact}\nWA saya: ${number}\n\nPesan: ${message}`;
+        const url = `https://wa.me/${SUPPORT_WA}?text=${encodeURIComponent(text)}`;
+        window.open(url, '_blank');
+      });
+    })();
+  </script>
+</body>
+</html>

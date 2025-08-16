@@ -1,0 +1,41 @@
+2025-08-11 21:12:21,298 - ERROR - HTTP Error 404: 
+2025-08-11 21:12:22,069 - ERROR - 
+1 Failed download:
+2025-08-11 21:12:22,069 - ERROR - ['XAUUSD']: YFPricesMissingError('possibly delisted; no price data found  (period=m15) (Yahoo error = "Invalid input - interval=h1 is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")')
+2025-08-11 21:12:22,193 - ERROR - Error fetching data for XAUUSD: No data available for ticker 'XAUUSD'
+2025-08-11 21:12:56,486 - ERROR - HTTP Error 404: 
+2025-08-11 21:12:57,150 - ERROR - 
+1 Failed download:
+2025-08-11 21:12:57,150 - ERROR - ['XAUUSD']: YFPricesMissingError('possibly delisted; no price data found  (period=1h) (Yahoo error = "No data found, symbol may be delisted")')
+2025-08-11 21:12:57,154 - ERROR - Error fetching data for XAUUSD: No data available for ticker 'XAUUSD'
+2025-08-11 21:14:42,981 - ERROR - HTTP Error 404: 
+2025-08-11 21:14:44,552 - ERROR - 
+1 Failed download:
+2025-08-11 21:14:44,552 - ERROR - ['XAUUSD']: YFPricesMissingError('possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")')
+2025-08-11 21:14:44,599 - ERROR - Error fetching data for XAUUSD: No data available for ticker 'XAUUSD'
+2025-08-11 21:14:44,837 - ERROR - Application error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Downloads\ai_forex_adaptif_rev1\main_smc.py", line 443, in run
+    self.multi_symbol_dashboard()
+  File "C:\Users\Administrator\Downloads\ai_forex_adaptif_rev1\main_smc.py", line 279, in multi_symbol_dashboard
+    print(f"  Bullish Bias: {bullish_count} ({bullish_count/total_symbols*100:.1f}%)")
+                                              ~~~~~~~~~~~~~^~~~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2025-08-11 21:16:11,175 - ERROR - HTTP Error 404: 
+2025-08-11 21:16:12,014 - ERROR - 
+1 Failed download:
+2025-08-11 21:16:12,014 - ERROR - ['XAUUSD']: YFPricesMissingError('possibly delisted; no price data found  (period=1h) (Yahoo error = "No data found, symbol may be delisted")')
+2025-08-11 21:16:12,214 - ERROR - Error fetching data for XAUUSD: No data available for ticker 'XAUUSD'
+2025-08-11 21:16:49,728 - ERROR - HTTP Error 404: 
+2025-08-11 21:16:50,429 - ERROR - 
+1 Failed download:
+2025-08-11 21:16:50,429 - ERROR - ['XAUUSD']: YFPricesMissingError('possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")')
+2025-08-11 21:16:50,579 - ERROR - Error fetching data for XAUUSD: No data available for ticker 'XAUUSD'
+2025-08-11 21:16:50,677 - ERROR - Application error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Downloads\ai_forex_adaptif_rev1\main_smc.py", line 443, in run
+    self.multi_symbol_dashboard()
+  File "C:\Users\Administrator\Downloads\ai_forex_adaptif_rev1\main_smc.py", line 279, in multi_symbol_dashboard
+    print(f"  Bullish Bias: {bullish_count} ({bullish_count/total_symbols*100:.1f}%)")
+                                              ~~~~~~~~~~~~~^~~~~~~~~~~~~~
+ZeroDivisionError: division by zero

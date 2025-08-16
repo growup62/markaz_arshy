@@ -1,0 +1,6792 @@
+[
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118042.7,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 43841174,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118042.7,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 40391564,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118042.7,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1058587904,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118042.7,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961244403,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118044.67,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1274310617,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118044.67,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1205804163,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118015.74,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 118874212,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118007.7,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1058596114,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118007.7,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961249743,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118015.74,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 111338217,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118225.97,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 43857375,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118225.97,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 40407717,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118320.81,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 43868979,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118322.69,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 118943630,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118320.81,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 40420631,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118320.81,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1058656066,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118322.69,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 111413734,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118322.69,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1274395534,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118320.81,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961315920,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118322.69,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1205893903,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118574.77,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1274479656,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118574.32,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 43896960,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118574.77,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1205982312,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118574.32,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 40447707,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118574.32,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1058731222,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118574.77,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119025912,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118574.32,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961388923,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118574.77,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 111495211,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118574.77,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1274519768,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118573.65,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 43910394,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118574.77,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1206017206,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118573.65,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 40460142,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118573.65,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1058767212,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118573.65,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961421819,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118574.77,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1274589100,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118573.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 43929441,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118574.77,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1206086788,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118573.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1058829306,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118573.49,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 40478996,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118573.49,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961482032,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118694.64,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 43952235,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118694.64,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 40503504,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118695.04,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119190737,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118695.04,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1274654699,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118694.64,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1058889359,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118694.64,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961546535,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118695.04,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 111657342,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118695.04,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1206157909,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118658.06,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1274659962,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118658.06,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1206158573,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118658.06,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119195061,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118657.8,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1058894537,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118658.06,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 111661592,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118657.8,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961551936,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118775.78,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1274847408,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 118775.78,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1206348566,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118774.23,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1059066127,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118775.78,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119367022,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 118774.23,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961719731,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118775.78,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 111828481,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3398.07,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119652868,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3398.057,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1059340046,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3398.07,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 112081997,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3398.057,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961936197,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3395.886,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119657686,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3395.842,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1059349380,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3395.886,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 112089332,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3395.842,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961947452,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3394.033,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119707558,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3393.998,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1059446380,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3394.033,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 112116200,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3393.998,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 961991721,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3393.702,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119747949,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3393.702,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 112159809,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3393.392,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119769102,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3393.38,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1059534229,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3393.38,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 962071227,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3393.392,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 112175811,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3394.092,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 119812221,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3394.056,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1059597794,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3394.092,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 112213137,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3394.056,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 962123354,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3371.681,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1192361135,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3373.924,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1275931268,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3373.924,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207361447,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16656,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276030878,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16656,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207454082,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3373.924,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1275931268,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16656,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276030878,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3373.924,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1275931268,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16656,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276030878,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3373.924,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1275931268,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16656,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276030878,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3377.267,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44691132,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.316,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300076315,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3377.267,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41171091,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.316,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927353506,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.316,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276120515,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.316,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207535709,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.544,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300082158,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.544,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927361455,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3378.603,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276164019,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3378.603,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207582468,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3378.61,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44709804,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3378.603,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300118039,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3378.61,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41191490,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3378.603,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927400411,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16721,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276196853,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16721,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207623676,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16706,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276235160,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16706,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207647984,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3375.482,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44758091,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.482,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276278733,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.482,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300215034,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3375.482,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41239859,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.482,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207697485,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.482,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927496544,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.923,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300221797,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.923,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927500057,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.011,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276306768,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.011,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207721444,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3378.273,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300344451,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3378.273,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927618036,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3378.343,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44814043,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3378.343,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41292943,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16737,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276419198,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16737,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207823948,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3376.318,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300468963,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3376.331,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44860009,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3376.318,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927731335,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3376.331,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41336152,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.212,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300496031,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.212,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927771981,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3376.31,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300519540,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3376.31,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276584546,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3376.31,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927782531,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3376.31,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1207980259,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 121886.23,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44916468,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 121886.23,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41392233,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 121893.08,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276650389,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 121893.08,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208041770,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3379.247,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300581392,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3379.185,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44918792,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3379.247,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276656727,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3379.247,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927841126,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3379.185,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41394570,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3379.247,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208046573,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.865,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300592784,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3377.823,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44921861,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.865,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927851020,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3377.823,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41399244,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3376.503,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300601139,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3376.503,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927859930,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 121891.89,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44944131,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 121891.89,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41421954,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 121893.08,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276711543,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 121893.08,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208106726,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.618,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300638704,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3375.618,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927895355,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.118,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300691433,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3377.118,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1927946474,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3377.112,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44969175,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3377.112,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41444536,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3374.656,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276837452,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3374.669,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 44993608,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3374.656,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208224557,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3374.669,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41472395,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3373.845,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45001153,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3373.845,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41474655,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3367.669,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300885588,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3367.669,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45058349,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3367.669,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1276978688,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3367.669,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928154438,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3367.669,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41542240,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3367.669,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208373426,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3366.033,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300979895,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3366.019,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45100121,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3366.033,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277058034,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3366.033,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928225323,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3366.019,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41573231,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3366.033,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208432024,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3366.228,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300996592,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3366.228,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928242041,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3366.033,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2300994223,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3366.033,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928243011,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16597,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277119167,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16597,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208514598,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.546,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301077292,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.546,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277150997,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3363.475,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45140168,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.546,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928320627,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.546,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208524463,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3363.475,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41612958,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.981,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301169172,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3365.002,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45186575,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.981,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928426909,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3365.002,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41664341,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301195534,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277274843,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928444416,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3364.189,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45197760,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208652429,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3364.189,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41672688,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277295266,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208667513,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3364.252,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45208255,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3364.252,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41679986,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.591,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301206017,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3363.59,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45202394,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.591,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928461918,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3363.59,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41680986,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277321241,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208695288,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3364.26,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45219072,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3364.26,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41695169,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277334864,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3364.286,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208706041,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.451,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301272335,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.451,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277359185,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.451,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928514440,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.451,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208731767,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.449,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45236806,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.449,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41709229,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.256,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301278142,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.256,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928518361,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 121719.59,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45239035,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 121719.59,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41720712,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 121721.28,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277362874,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 121721.28,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208761210,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.069,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301315643,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.069,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277401470,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3360.063,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45254131,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.069,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928558153,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.069,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208775509,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3360.063,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41725905,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3361.151,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45259748,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3361.166,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301330492,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3361.151,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41736972,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3361.166,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928580923,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.513,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301344056,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.513,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277426702,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3360.493,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45267784,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.513,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928583352,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.513,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208798404,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3360.493,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41738381,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3358.422,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301358308,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3358.422,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277441092,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3358.409,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45275517,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3358.422,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928601160,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3358.422,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208816757,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3358.409,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41748671,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.905,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45306203,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.905,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41776120,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3361.462,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301437196,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3361.462,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928667621,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3361.416,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45321612,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3361.416,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41787887,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.655,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301427744,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.655,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277512474,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.655,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928674345,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.655,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208885768,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.957,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301479811,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.957,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928711841,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3360.622,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45346169,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.658,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277573296,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3360.622,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41816026,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3360.658,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1208943845,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.943,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45352622,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.943,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41818631,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.961,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301516727,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.961,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1928742824,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3363.958,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45367961,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3363.958,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41839828,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.992,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277675786,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.992,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209041242,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.896,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45420700,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.896,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41889202,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16549,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209120676,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.364,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45427975,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.38,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277762149,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.364,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41892257,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "EURUSD",
+    "tf": "M15",
+    "entry": 1.16549,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277752062,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.38,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209121041,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.999,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45490878,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.999,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41968449,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.988,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277901303,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.988,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209286092,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.517,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2301898227,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.521,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45511720,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.517,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1929124582,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.521,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 41983526,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.517,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1277943690,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.517,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209310256,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.205,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278094293,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.205,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209457921,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.19,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45596305,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.19,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42059491,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.134,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45631152,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.108,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278178185,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.134,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42096115,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.108,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209544189,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.108,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2302159029,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.108,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1929372085,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3360.971,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45643268,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3360.971,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42106601,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.616,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45650115,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.517,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278216875,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3362.616,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42118002,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3362.517,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209593858,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.726,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2302205471,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3363.726,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1929417922,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3363.739,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45654874,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3363.739,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42122894,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.766,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45719303,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.784,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278384928,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.766,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42179302,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.784,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209744335,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3357.36,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278459074,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3357.36,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209818505,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3357.341,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45748758,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3357.341,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42209108,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.282,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45771052,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.303,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278508227,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.282,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42228273,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.303,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209862647,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120486.29,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278603026,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120486.29,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209966156,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120485.65,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45806952,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120485.65,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42269622,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3351.259,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278644590,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3351.259,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2302607625,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3351.251,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45825721,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3351.259,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1209999910,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3351.259,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1929812293,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3351.251,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42281109,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.364,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45830646,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.364,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42289880,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.364,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278676277,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.364,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210044796,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120452.43,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278735729,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120452.43,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210089683,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120452.29,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45858989,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120452.29,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42313831,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.478,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278737211,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.478,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210090839,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120381.85,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45868516,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120381.85,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42323208,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120386.69,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278753429,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120386.69,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210107623,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120318.36,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45864115,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120318.36,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42324234,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120329.52,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278742703,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120329.52,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210110451,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120277.46,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278759391,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120277.46,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210112922,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120422.85,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45891348,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120422.85,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42345891,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120431.2,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278811735,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120431.2,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210164601,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120346.77,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278818427,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120346.77,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210171132,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3356.527,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278827313,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3356.576,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45897747,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3356.527,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210183364,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3356.576,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42354051,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120373.17,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278827391,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120373.17,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210184491,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120339.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45894323,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120339.33,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42355392,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120319.46,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278834692,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120319.46,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210191251,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120258.77,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45905700,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120258.77,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42359763,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120259.27,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278845646,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120259.27,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210197558,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120184.54,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45914262,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120184.54,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42368283,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120186.09,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278862305,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120186.09,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210215070,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.929,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1278865526,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.905,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45915399,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.929,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210221089,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.905,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42370647,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120004.4,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45918269,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120004.4,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42374882,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120079.07,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45926969,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120079.07,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42380680,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.92,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45931048,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.92,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42386400,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120067.37,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45941549,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120067.37,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42395238,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120105.19,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 45967998,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120105.19,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42422068,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120113.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279025657,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120113.49,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210381955,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.767,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46003204,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.748,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279036061,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.767,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42473813,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.748,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210420048,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.388,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46027346,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.388,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42481031,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3355.565,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279162315,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3355.565,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210515818,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3355.547,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46062262,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3355.547,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42514572,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.364,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279272062,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.364,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210626666,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.375,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46132044,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.364,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279303210,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.375,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42586439,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.364,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210665572,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.641,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279338930,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.641,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46148825,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.641,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210708972,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.641,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42604253,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.641,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279409764,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.661,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46172451,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.641,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210788683,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.661,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42632252,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.144,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46175065,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.143,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279419855,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.144,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42635736,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.143,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210794393,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 119870.46,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279442070,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 119878.15,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46185992,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 119870.46,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210825077,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 119878.15,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42652413,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3357.536,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46224038,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3357.536,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42679344,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3357.533,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279512289,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3357.533,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210877127,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.886,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279524887,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3359.886,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1210899457,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.914,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46230458,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3359.914,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42689316,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3356.631,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46274441,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3356.631,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42741326,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3356.72,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46300736,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3356.72,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42759622,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3355.492,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46347713,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3355.492,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42796922,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3355.529,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279784422,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3355.529,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1211138371,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3356.386,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279802873,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3356.369,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46358809,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3356.386,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1211156425,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3356.369,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42808150,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3351.609,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46366107,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3351.616,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279819166,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3351.609,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42828516,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3351.616,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1211197254,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3350.668,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46382409,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3350.668,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42832955,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3348.681,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279896996,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3348.664,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46402951,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3348.681,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1211252093,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3348.664,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42852995,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.182,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1279978352,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.116,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46443713,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.182,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1211357594,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.116,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 42906069,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 118775.78,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 111828481,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3394.092,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 112213137,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 120754.21,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116208290,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120762.74,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46618065,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120754.21,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1280435753,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 120762.74,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43070847,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 120754.21,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1211785486,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 120754.21,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 123883511,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 120754.21,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116209681,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.929,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46628282,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.91,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1280460852,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3346.91,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 123893777,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.929,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43076193,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.91,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1211804151,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3346.91,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116221527,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 120754.21,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 123886276,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 120754.21,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116225117,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3349.45,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1280483195,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3349.474,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46637533,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3349.45,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 123914203,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3349.45,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1211833600,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3349.474,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43086146,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3349.45,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116244320,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.024,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46738326,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.931,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1280732259,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3345.931,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 124147603,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.024,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43185426,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.931,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212078602,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3345.931,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116470639,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.931,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1280781176,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.95,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46770463,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.931,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212114745,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.95,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43209433,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3350.984,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 124179170,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3350.984,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116508820,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3350.984,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1280778046,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3351.008,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46768157,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3350.984,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212131036,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3351.008,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43217959,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.851,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1280801976,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.941,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46781880,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.851,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212136593,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.941,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43221139,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3352.851,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 124201239,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3352.851,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116516245,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 119591.07,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 124310166,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 119591.07,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116631478,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 119591.07,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1280942393,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 119592.91,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46841084,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 119591.07,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212288124,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 119592.91,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43282983,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.913,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1280983200,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.931,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46858456,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.913,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212324201,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.931,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43295771,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3354.913,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 124350495,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDm",
+    "tf": "M15",
+    "entry": 3354.913,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 116665687,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.093,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46914523,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.093,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43340352,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.931,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1281317560,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.978,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 46996633,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.931,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212632574,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.978,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43411058,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3344.161,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1281368019,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3344.161,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212675427,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3344.186,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47018611,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3344.186,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43428911,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3350.126,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1281475139,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3350.146,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47071893,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3350.126,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212768868,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3350.146,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43476627,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.037,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47077267,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.036,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1212780022,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.037,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43484220,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.046,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47101927,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.046,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43505285,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.096,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47110261,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.096,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43513952,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3350.126,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2305901908,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3350.152,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47213651,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3350.126,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1281760069,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3350.126,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1933000002,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3350.152,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43615265,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3350.126,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1213009020,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.58,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1281832195,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.58,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2305964614,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.59,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47248533,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.58,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1213068077,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.58,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1933060191,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.59,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43648784,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.582,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2306145243,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.57,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47337042,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.582,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1282050493,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.582,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1933228310,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.57,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43732640,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.582,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1213244603,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.603,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47344196,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.603,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43738971,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.658,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1282075429,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.549,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47348260,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3352.658,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1213266219,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3352.549,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43744127,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.618,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47510859,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.618,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43901507,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.618,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2306549688,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.618,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1282495695,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.618,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1933608519,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.618,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1213624629,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.713,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2306591184,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.713,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1933654203,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.415,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1282579339,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.415,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1213700248,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.438,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47542288,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.438,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 43933012,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.583,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47686891,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.583,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44085336,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.581,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2306893174,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.581,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1282859594,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.581,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1933958603,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.581,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1213979536,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3347.109,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47706756,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3347.109,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44100404,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.373,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47730731,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.373,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44121070,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.409,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2306978987,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.409,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934027739,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.865,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283088858,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.864,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47789730,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.865,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214170193,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.864,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44174449,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3349.96,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307153825,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3349.96,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283110359,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3349.985,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47795747,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3349.96,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934205799,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3349.985,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44189883,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3349.96,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214207194,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.601,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307223468,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.529,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47834777,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.601,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283175414,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.601,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934278073,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3354.529,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44232814,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3354.601,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214282340,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.94,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307373568,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.94,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283313011,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.958,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47900866,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.94,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934406539,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3353.94,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214395680,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3353.958,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44291419,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.384,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283445633,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.384,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307508883,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3347.396,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47968125,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.384,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214518978,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3347.396,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44352409,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.384,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934530989,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.496,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283489349,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.52,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 47989167,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.496,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214553928,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3346.52,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44370125,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3348.066,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283501381,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3348.066,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214565581,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3348.066,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307576527,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3348.066,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934588428,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3351.27,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 48024758,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3351.27,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44407374,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3351.26,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283567241,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3351.26,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214625665,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3348.37,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307779230,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3348.37,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934752491,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3348.372,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 48077747,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3348.372,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44455848,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3347.14,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 48086259,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.114,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307801239,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3347.14,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44464821,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.114,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934775511,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.629,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307833955,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.682,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 48097962,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.629,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283742064,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.629,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934805371,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.682,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44475666,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.629,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214794075,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.629,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307844658,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.629,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934824378,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3347.117,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 48117043,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.142,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283774811,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.142,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2307869209,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3347.117,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44495008,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.142,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1214838688,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.142,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1934852020,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3348.091,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 48122373,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3348.091,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44500967,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.829,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1283959606,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.829,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1215006487,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.492,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2308071701,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.492,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1935033774,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.544,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 48195453,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSDc",
+    "tf": "M15",
+    "entry": 3345.544,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 44570013,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3335.78,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1302202473,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3335.78,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2328017676,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3335.78,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1232541153,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3335.78,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1953112647,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117343.59,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1302203797,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117343.59,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1232541050,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117247.57,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1302213130,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117247.57,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1232552489,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117266.9,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1302218946,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117266.9,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1232555782,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3337.29,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2328058380,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3337.29,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1302244101,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3337.29,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1953142267,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3337.29,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1232577812,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117228.67,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1302246067,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117228.67,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1232579045,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117390.06,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1302250901,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 117390.06,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1232581903,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3335.3,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1302332081,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3335.3,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 2328153408,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3335.3,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1232654132,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3335.3,
+    "result": "win",
+    "order_type": "market",
+    "ticket": 1953224577,
+    "magic": 510015,
+    "apikey": "38a7f571-a3ba-478d-b8b9-554a0d698d6c"
+  }
+]

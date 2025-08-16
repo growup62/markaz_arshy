@@ -1,0 +1,27 @@
+{
+    "symbols": [
+        "XAUUSD",
+        "EURUSD",
+        "GBPUSD",
+        "BTCUSD"
+    ],
+    "timeframes": [
+        "15m",
+        "1h",
+        "4h"
+    ],
+    "profiles": [
+        "scalper",
+        "intraday",
+        "swing"
+    ],
+    "scan_interval": 300,
+    "server_config": {
+        "server_url": "http://localhost:5000/submit_signal",
+        "api_key": "your_api_key_here",
+        "secret_key": "your_secret_key_here",
+        "auto_trade": true,
+        "broadcast": true
+    },
+    "mt5_path": "\"C:\\Program Files\\ExclusiveMarkets MetaTrader5\\terminal64.exe\""
+}
